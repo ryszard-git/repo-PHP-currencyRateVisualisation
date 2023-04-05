@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gray;
+}
+
+.content-box {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.content-box > div > img {
+    margin-top: 20px;
+}
+
+.footer-box {
+    text-align: center;
+    margin: 10px auto;
+    
+}
